@@ -1,0 +1,17 @@
+{
+  "name": "assignment2_restuoktafiandi",
+  "version": "1.0.0",
+  "description": "assignment 2",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "login",
+    "jwt",
+    "authentication",
+    "authorization"
+  ],
+  "author": "Restu Oktafiandi",
+  "license": "ISC"
+}
