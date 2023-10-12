@@ -46,6 +46,13 @@ Buatlah server Rest API menggunakan express.js dengan implementasi JWT
   }
 ]
 ```
+**NB: password menggunakan plain text, tanpa hashing**
+
+API yang harus ada:
+
+1. Login: Buatlah API untuk login user dengan method POST, API ini akan membaca data users.json, response sukses dari API ini adalah token JWT.
+2. Get All Data: Buatlah API untuk mendapatkan semua data teachers.json dengan method GET, API ini harus menyertakan token sebagai proses Autentikasi.
+
 #
 ## Cara Menggunakan
 
